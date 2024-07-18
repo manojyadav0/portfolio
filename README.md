@@ -15,7 +15,7 @@ This repository contains the source code for my personal portfolio website built
 
 To clone this project locally, run the following command in your terminal:
 
-'''bash git clone https://github.com/manojyadav0/portfolio.git
+'''bash git clone https://github.com/manojyadav0/portfolio
 
 
 ##Usage
