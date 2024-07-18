@@ -8,7 +8,6 @@ This repository contains the source code for my personal portfolio website built
 - CSS
 - JavaScript
 - jQuery
-- Owl Carousel 2
 - Typed.js
 - EmailJS
 
@@ -34,7 +33,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##Acknowledgements
 
-Icons provided by Font Awesome and custom images used for project logos.
-Carousel functionality provided by Owl Carousel 2.
-Dynamic typing effect powered by Typed.js.
-Email service integration by EmailJS.
+1.Icons provided by Font Awesome and custom images used for project logos.
+2.Dynamic typing effect powered by Typed.js.
+3.Email service integration by EmailJS.
