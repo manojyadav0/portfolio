@@ -11,11 +11,6 @@ This repository contains the source code for my personal portfolio website built
 - Typed.js
 - EmailJS
 
-## Clone Project
-
-To clone this project locally, run the following command in your terminal:
-
-'''bash git clone https://github.com/manojyadav0/portfolio
 
 
 ##Usage
