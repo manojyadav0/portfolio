@@ -118,7 +118,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: #ffffff;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -217,7 +217,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: #798085;
+    color: #ffffff;
     font-weight: 500;
 }
 .home .home-content a{
@@ -233,7 +233,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: #798085;
+    color: #76797c;
     background: none;
 }
 
