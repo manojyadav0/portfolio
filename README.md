@@ -11,7 +11,7 @@ This repository contains the source code for my personal portfolio website built
 - Typed.js
 - EmailJS
 
-
+check it out: https://manojyadav0.github.io/portfolio/
 
 ##Usage
 
